@@ -1,2 +1,0 @@
-192.168.80.1 - - [06/Dec/2018:00:52:13 +0000] "GET /test HTTP/1.1" 200 24 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36" "-"
-192.168.80.1 - - [06/Dec/2018:00:52:13 +0000] "GET /favicon.ico HTTP/1.1" 200 0 "http://laravel.test/test" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36" "-"
